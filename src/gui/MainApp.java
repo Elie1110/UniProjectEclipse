@@ -16,7 +16,7 @@ public class MainApp extends JFrame {
     private FinancialPanel financialPanel;
     private ProjectsPanel projectsPanel;
 
-    //private Project activeProject;
+    private Project activeProject;
 
     public MainApp() {
         setTitle("Home Appliances Company Application");
